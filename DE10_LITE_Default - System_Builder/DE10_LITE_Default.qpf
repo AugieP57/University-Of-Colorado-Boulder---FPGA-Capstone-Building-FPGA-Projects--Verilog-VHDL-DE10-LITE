@@ -1,0 +1,6 @@
+DATE = "12:34:56 May 14, 2026"
+QUARTUS_VERSION = "16.0.0"
+
+# Revisions
+
+PROJECT_REVISION = "DE10_LITE_Default"

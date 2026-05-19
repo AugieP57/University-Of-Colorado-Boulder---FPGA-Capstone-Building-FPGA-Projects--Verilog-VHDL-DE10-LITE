@@ -1,0 +1,41 @@
+Quartus Prime Archive log --	C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default_tmp_archive.qarlog
+
+Archive:	C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default_tmp_archive.qar
+Date:		Fri May 15 16:09:28 2026
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default.SDC
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default.qpf
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default.qsf
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default.sdc
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default.v
+C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default_assignment_defaults.qdf
+C:/AlteraPrj/DE10_LITE_Default/VGA_Audio_PLL.ppf
+C:/AlteraPrj/DE10_LITE_Default/VGA_Audio_PLL.qip
+C:/AlteraPrj/DE10_LITE_Default/VGA_Audio_PLL.v
+C:/AlteraPrj/DE10_LITE_Default/VGA_Audio_PLL_bb.v
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/Img_RAM.bsf
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/Img_RAM.qip
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/Img_RAM.v
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/VGA_Controller.v
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/VGA_OSD_RAM.v
+C:/AlteraPrj/DE10_LITE_Default/VGA_DATA/VGA_Param.h
+C:/AlteraPrj/DE10_LITE_Default/v/Reset_Delay.v
+C:/AlteraPrj/DE10_LITE_Default/v/SEG7_LUT.v
+C:/AlteraPrj/DE10_LITE_Default/v/SEG7_LUT_6.v
+C:/AlteraPrj/DE10_LITE_Default/v/led_driver.v
+C:/AlteraPrj/DE10_LITE_Default/v/spi_controller.v
+C:/AlteraPrj/DE10_LITE_Default/v/spi_ee_config.v
+C:/AlteraPrj/DE10_LITE_Default/v/spi_param.h
+C:/AlteraPrj/DE10_LITE_Default/vga_data/img_data.hex
+	======= Total: 24 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri May 15 16:09:29 2026
+Source archive file:	C:/AlteraPrj/DE10_LITE_Default/DE10_LITE_Default_tmp_archive.qar
+Archive was extracted into	C:/AlteraPrj/C4M1P1/
+		 - successfully.
