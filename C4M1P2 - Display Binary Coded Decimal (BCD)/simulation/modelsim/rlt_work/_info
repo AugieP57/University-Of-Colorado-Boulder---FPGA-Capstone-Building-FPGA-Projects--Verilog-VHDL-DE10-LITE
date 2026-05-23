@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/AlteraPrj/C4M1P2/simulation/modelsim
+Ec4m1p2
+Z1 w1779549128
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/AlteraPrj/C4M1P2/C4M1P2.vhd
+Z5 FC:/AlteraPrj/C4M1P2/C4M1P2.vhd
+l0
+L4
+VKii<zle_CRG9Ef?5eXA4j0
+!s100 YfH6?DW:j`JFmmd422aTb0
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1779550961
+!i10b 1
+Z8 !s108 1779550961.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/AlteraPrj/C4M1P2/C4M1P2.vhd|
+Z10 !s107 C:/AlteraPrj/C4M1P2/C4M1P2.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Adataflow
+R2
+R3
+DEx4 work 6 c4m1p2 0 22 Kii<zle_CRG9Ef?5eXA4j0
+l21
+L12
+V^E1YU_ozHikNZZc^4EQEz3
+!s100 MLXD]cLk]S8?R?1n=IN[<3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vDE10_LITE_Golden_Top
+R7
+!i10b 1
+!s100 KF1I=XQNe7?Ak08TBAJ7P1
+ITE@[;7g=QR1Y6WSNIU<:V3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1779200321
+8C:/AlteraPrj/C4M1P2/DE10_LITE_Golden_Top.v
+FC:/AlteraPrj/C4M1P2/DE10_LITE_Golden_Top.v
+L0 5
+OV;L;10.5b;63
+r1
+!s85 0
+31
+R8
+!s107 C:/AlteraPrj/C4M1P2/DE10_LITE_Golden_Top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/C4M1P2|C:/AlteraPrj/C4M1P2/DE10_LITE_Golden_Top.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/AlteraPrj/C4M1P2
+tCvgOpt 0
+n@d@e10_@l@i@t@e_@golden_@top
