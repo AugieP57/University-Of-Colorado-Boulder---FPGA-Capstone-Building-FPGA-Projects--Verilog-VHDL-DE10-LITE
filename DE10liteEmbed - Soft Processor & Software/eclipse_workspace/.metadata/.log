@@ -1,0 +1,38 @@
+!SESSION 2026-05-27 10:43:21.623 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/intelfpga_lite/16.1/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/intelfpga_lite/16.1/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-27 10:44:13.692
+!MESSAGE Indexed 'Embed_System_bsp' (86 sources, 166 headers) in 2.02 sec: 5,687 declarations; 9,931 references; 42 unresolved inclusions; 3 syntax errors; 96 unresolved names (0.61%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-27 10:44:14.852
+!MESSAGE Indexed 'Embed_System' (0 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 10:46:53.859
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=0x2020]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 10:46:55.619
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid --sidp=0x2020 /cygdrive/c/AlteraPrj/DE10liteEmbed/software/Embed_System/Embed_System.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 10:51:26.286
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=0x2020]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 10:51:27.997
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid --sidp=0x2020 /cygdrive/c/AlteraPrj/DE10liteEmbed/software/Embed_System/Embed_System.elf]
+!SESSION 2026-05-27 11:26:35.656 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/intelfpga_lite/16.1/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/intelfpga_lite/16.1/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 11:27:32.031
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=0x2020]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2026-05-27 11:27:33.908
+!MESSAGE Executing: [C:/intelfpga_lite/16.1/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid --sidp=0x2020 /cygdrive/c/AlteraPrj/DE10liteEmbed/software/Embed_System/Embed_System.elf]
