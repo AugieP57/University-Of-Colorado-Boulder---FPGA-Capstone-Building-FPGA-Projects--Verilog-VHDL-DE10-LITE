@@ -1,0 +1,6 @@
+11:26:48 **** Clean-only build of configuration Nios II for project Embed_System_bsp ****
+make clean 
+[BSP clean complete]
+
+11:26:48 Build Finished (took 219ms)
+
